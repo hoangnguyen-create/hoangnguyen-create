@@ -1,6 +1,8 @@
 ## Welcome 👋
 
-My name is **Hoang Nguyen**, I'm a Junior Data Analyst focused on business analytics, dashboard development, and predictive modeling. I enjoy working with data to uncover insights that support better decision-making.
+My name is **Hoang Nguyen**, I'm a Junior Data Analyst focused on business analytics, dashboard development, and predictive modeling.
+
+I enjoy working with data to uncover insights that support better decision-making.
 
 ### 💁‍♂️ What I'm currently working on:
 - Building end-to-end analytics projects using Python and Power BI
