@@ -24,6 +24,6 @@ LinkedIn: https://linkedin.com/in/hwangnguyen
 - I used to live in **Toronto (Canada)** for almost 7 years 🥶
 - I'm a huge fan **Resident Evil** 😱 and **Metal Gear Solid** 📦
 - In my freetime, I participate in **Muay Thai** class 🥊
-- I'm currently learning French and working toward the B2 level 🥖
+- I'm currently learning **French** and working toward the B2 level 🥖
 
 
