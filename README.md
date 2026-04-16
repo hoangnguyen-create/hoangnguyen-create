@@ -14,7 +14,7 @@ I've created 10 public repositories showcasing my data analytics projects.
 My favorite two are 
 [Bank Customer Churn Analysis](https://github.com/hoangnguyen-create/Bank-Customer-Churn) 
 and 
-[Superstore Sales Analysis](https://github.com/hoangnguyen-create/Superstore-Sales-Analysis), where I applied predictive modeling and business intelligence techniques.
+[Superstore Sales Analysis](https://github.com/hoangnguyen-create/Superstore-Sales-Analysis) where I applied predictive modeling and business intelligence techniques.
 
 ### 🧰 Tools I use
 Python (Pandas, NumPy, Statsmodels, Scikit-learn) | SQL | Power BI | Excel | Jupyter Notebook
