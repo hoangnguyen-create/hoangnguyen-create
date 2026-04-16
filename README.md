@@ -8,6 +8,7 @@ My name is **Hoang Nguyen**, I'm a Junior Data Analyst focused on business analy
 - Strengthening my portfolio for entry-level Data Analyst roles
 
 I've created 10 public repositories showcasing my data analytics projects. 
+
 My favorite two are 
 [Bank Customer Churn Analysis](https://github.com/hoangnguyen-create/Bank-Customer-Churn) 
 and 
