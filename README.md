@@ -25,7 +25,6 @@ LinkedIn: https://linkedin.com/in/hwangnguyen
 📊 I'm currently seeking **Data/ Performance Analyst opportunities** in business & retail analytics, reporting, and decision-support roles.
 
 ⭐ Fun fact:
-- I used to live in **Toronto (Canada)** for almost 7 years 🥶
 - I'm a huge fan **Resident Evil** 😱 and **Metal Gear Solid** 📦
 - In my freetime, I participate in **Muay Thai** class 🥊
 - I'm currently learning **French** and working toward the B2 level 🥖
