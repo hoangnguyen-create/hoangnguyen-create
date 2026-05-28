@@ -25,7 +25,7 @@ LinkedIn: https://linkedin.com/in/hwangnguyen
 📊 I'm currently seeking **Data/ Performance Analyst opportunities** in business & retail analytics, reporting, and decision-support roles.
 
 ⭐ Fun fact:
-- I'm a huge fan **Resident Evil** 😱 and **Metal Gear Solid** 📦
+- I'm a huge fan of **Resident Evil** 😱 and **Metal Gear Solid** 📦
 - In my freetime, I participate in **Muay Thai** class 🥊
 - I'm currently learning **French** and working toward **B2 level** 🥖
 
